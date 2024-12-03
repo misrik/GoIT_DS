@@ -1,0 +1,33 @@
+Посада,min_salary,max_salary,avg
+Business analyst,200,5000,2600.0
+DBA,380,6000,3190.0
+Data Scientist / Data Analyst,150,8000,4075.0
+Designer,100,4000,2050.0
+DevOps,194,10000,5097.0
+Director of Engineering / Program Director,1500,34000,17750.0
+ERP / CRM,100,6000,3050.0
+Game designer,150,6800,3475.0
+HR,100,7000,3550.0
+HTML coder,154,3000,1577.0
+Junior QA engineer,96,2000,1048.0
+Junior Software Engineer,75,2600,1337.5
+Marketing,100,4000,2050.0
+Product Manager,250,5000,2625.0
+Project manager,190,8000,4095.0
+QA Tech Lead,430,6000,3215.0
+QA engineer,150,2900,1525.0
+Research Engineer,114,4000,2057.0
+Sales manager,120,2300,1210.0
+Scrum Master,370,4500,2435.0
+Security Specialist,300,4000,2150.0
+Senior Project Manager / Program Manager,200,9100,4650.0
+Senior QA engineer,400,6000,3200.0
+Senior Software Engineer,350,9200,4775.0
+Software Engineer,100,7000,3550.0
+Support,138,3650,1894.0
+Sysadmin,90,3000,1545.0
+System Architect,400,10000,5200.0
+Talent Researcher,100,1700,900.0
+Team lead,300,7000,3650.0
+Technical Lead,500,18000,9250.0
+Technical writer,200,3000,1600.0
